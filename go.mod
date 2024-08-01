@@ -1,4 +1,4 @@
-module github.com/prometheus/common
+module github.com/nooblyh/prometheus-common
 
 require (
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
